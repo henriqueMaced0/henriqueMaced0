@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Henrique Macedpo</h1>
 📫 Reach me out 👇
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/henrique-macedo-7951961a8/)](https://www.linkedin.com/in/henrique-macedo-7951961a8/)
 
 - 🌱 I’m currently learning *Typescript, NextJS and React*
