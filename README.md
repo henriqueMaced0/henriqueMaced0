@@ -40,13 +40,15 @@ Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linked
             alt="postgresql" width="40" height="40" /> </a>
     <a href="https://www.typescriptlang.org/" target="_blank"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-            alt="typescript" width="40" height="40" /> </a> <a href="https://firebase.google.com/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" width="40" height="40" /></a>
-
+            alt="typescript" width="40" height="40" /> </a>
+    <a href="https://firebase.google.com/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" width="40"
+            height="40" /></a>
     <a href="https://pt-br.reactjs.org/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" /></a>
-
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40"
+            height="40" /></a>
     <a href="https://nextjs.org/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" width="40" height="40" /></a>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" width="40"
+            height="40" /></a>
 
 </p>
