@@ -4,7 +4,7 @@
 [![Linkedin
 Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/henrique-macedo-7951961a8/)](https://www.linkedin.com/in/henrique-macedo-7951961a8/)
 
-- 🌱 I’m currently learning *Typescript, NextJS and React*
+- 🌱 I’m currently learning *Typescript, NextJS and Sass*
 - 💬 Ask me about *NodeJS, React e Javascript*
 <div>
     <img height="180em"
