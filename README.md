@@ -55,5 +55,8 @@ Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linked
     <a href="https://redux.js.org/" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"width="40"
             height="40" /></a>
+    <a href="https://www.figma.com" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" "width="40"
+            height="40" /></a>
 
 </p>
